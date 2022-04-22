@@ -1,6 +1,6 @@
 # ContextMenu
 
-The [Angular Context Menu](https://www.syncfusion.com/angular-ui-components/angular-context-menu) or right-click menu is a graphical user interface component that is easy to use and appears when the user right-clicks or performs a touch and hold action. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+The [Angular Context Menu](https://www.syncfusion.com/angular-ui-components/angular-context-menu?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples) or right-click menu is a graphical user interface component that is easy to use and appears when the user right-clicks or performs a touch and hold action. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
 ## Development server
 
