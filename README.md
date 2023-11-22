@@ -35,7 +35,7 @@ Multi-level nested items are supported in context menu. You can browse the sub m
 
 ### Menu Item Icons
 
-You can include icons or sprite images in menu items easily to add the visual representation of the action in context menu.
+You can include [icons](https://ej2.syncfusion.com/angular/documentation/context-menu/icons-and-navigation#icons?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples) or sprite images in menu items easily to add the visual representation of the action in context menu.
 
 ### Context Menu Templates
 
@@ -64,9 +64,9 @@ Angular Context menu can be used with any component. Adding a context menu to ot
 
 [Knowledge base](https://support.syncfusion.com/kb/article/10880/how-to-get-started-easily-with-syncfusion-angular-11-context-menu?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples)
 
-### About Syncfusion Angular UI Components
+## About Syncfusion Angular UI Components
 
-Syncfusion's Angular UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Context menu, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples).
+Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Context menu, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples).
 
 ### About Syncfusion
 
