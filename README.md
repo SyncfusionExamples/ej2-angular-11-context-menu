@@ -46,7 +46,7 @@ Templates is used to create custom user experience. You can create custom Contex
 Angular Context menu can be used with any component. Adding a context menu to other components require simple configurations.
 
 ## Related links
-[Learn More about Angular Context menu](https://www.syncfusion.com/angular-components/angular-context-menu?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples)
+[Learn More about Angular Context Menu](https://www.syncfusion.com/angular-components/angular-context-menu?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-context-menu-github-samples)
 
